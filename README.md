@@ -1,4 +1,4 @@
-### TypeScript Assignment 1
+###  Assignment: Problem Solving with TypeScript & OOP
 ## About
 
 This assignment is about practicing TypeScript through 8 problems. I worked with functions, union types, tuples, generics, interfaces, classes, inheritance, access modifiers, and asynchronous programming.
